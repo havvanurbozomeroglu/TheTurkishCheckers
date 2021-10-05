@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1621965174 source:c:\users\hnb\desktop\homework\codeblocksproject\tavlaodevi\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<sstream>
+	<string.h>
+
